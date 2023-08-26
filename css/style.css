@@ -10,11 +10,17 @@
 
 /* About page */
 
+.image-ashok {
+    width: 200px;
+    border-radius: 100px;
+    float: left;
+}
+
 
 /* Contact page */
 
 #footer-area {
-    background-color: orangered;
+    background-color: hotpink;
     width: 100%;
     height: 150px;
     padding: 50px;
